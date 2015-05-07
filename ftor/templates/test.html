@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+	<div class="row">
+	  <div class="span12">
+	    Level 1 of column
+	    <div class="row">
+	    {% for i in range(10)%}
+	      <div class="span6">
+	      	<table>
+	      		<tr><a href="http://127.0.0.1:8080/health?req={ 'class':{{i}} }">{{ i }}{{ name }}</a></tr>
+	      	</table>
+	      </div>
+	      {%endfor%}
+	    </div>
+	  </div>
+	</div>
+</html>
