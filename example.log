@@ -1,0 +1,97 @@
+DEBUG qtp2046227094-9 net.chenwen.arrangecourse.dataservice.service.Health - start health
+DEBUG qtp1135645800-13 net.chenwen.arrangecourse.dataservice.service.Health - [Ljava.lang.String;@d0721b0
+DEBUG qtp1135645800-16 net.chenwen.arrangecourse.dataservice.service.Health - [Ljava.lang.String;@16ba5c7a
+DEBUG qtp1135645800-12 net.chenwen.arrangecourse.dataservice.service.Health - [Ljava.lang.String;@250d593e
+DEBUG qtp1135645800-14 net.chenwen.arrangecourse.dataservice.service.Health - [Ljava.lang.String;@f5e0873
+DEBUG qtp1135645800-13 net.chenwen.arrangecourse.dataservice.service.Health - [Ljava.lang.String;@5f49d886
+DEBUG qtp1135645800-16 net.chenwen.arrangecourse.dataservice.service.Health - 
+DEBUG qtp1135645800-13 net.chenwen.arrangecourse.dataservice.service.Health - [Ljava.lang.String;@4178460d
+DEBUG qtp1135645800-14 net.chenwen.arrangecourse.dataservice.service.Health - [Ljava.lang.String;@4dd36dfe
+DEBUG qtp1135645800-13 net.chenwen.arrangecourse.dataservice.service.Health - [Ljava.lang.String;@73da669c
+DEBUG qtp2046227094-15 net.chenwen.arrangecourse.base.service.ArrangeServlet - http://0.0.0.0:8080/health
+DEBUG qtp2046227094-12 net.chenwen.arrangecourse.base.service.ArrangeServlet - http://0.0.0.0:8080/health
+DEBUG qtp2046227094-12 net.chenwen.arrangecourse.base.service.ArrangeServlet - nihao=
+DEBUG qtp2046227094-14 net.chenwen.arrangecourse.base.service.ArrangeServlet - nihao={%22chenwen%22:nihao}
+DEBUG qtp2046227094-13 net.chenwen.arrangecourse.base.service.ArrangeServlet - {%22chenwen%22:nihao}.json
+DEBUG qtp1135645800-11 net.chenwen.arrangecourse.base.service.ArrangeServlet - {%22chenwen%22:nihao}.json
+DEBUG qtp482848780-14 net.chenwen.arrangecourse.base.service.ArrangeServlet - {%22chenwen%22:nihao}.json
+DEBUG qtp1135645800-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - {%22chenwen%22:nihao}.json
+DEBUG qtp1135645800-15 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp1135645800-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp1135645800-15 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp1135645800-14 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp1135645800-16 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp1135645800-15 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp1135645800-14 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp1135645800-10 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp1135645800-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-10 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-15 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-11 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-16 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-12 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-16 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-15 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-11 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-12 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-10 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-10 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-16 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-16 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-16 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-11 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:0%20}
+DEBUG qtp2046227094-12 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:1%20}
+DEBUG qtp2046227094-11 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-16 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:0%20}
+DEBUG qtp2046227094-11 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:2%20}
+DEBUG qtp2046227094-11 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:3%20}
+DEBUG qtp2046227094-12 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:4%20}
+DEBUG qtp2046227094-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-15 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-11 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-10 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-11 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-11 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-10 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-11 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-12 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-11 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-12 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp2046227094-15 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:0%20}
+DEBUG qtp2046227094-15 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:1%20}
+DEBUG qtp2046227094-12 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp1135645800-14 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp1135645800-12 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:1%20}
+DEBUG qtp1135645800-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:0%20}
+DEBUG qtp1135645800-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:9%20}
+DEBUG qtp1135645800-16 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:9%20}
+DEBUG qtp1135645800-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:0%20}
+DEBUG qtp482848780-13 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-15 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:0%20}
+DEBUG qtp482848780-12 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:1%20}
+DEBUG qtp482848780-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:1%20}
+DEBUG qtp482848780-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - req={%20%27class%27:0%20}
+DEBUG qtp482848780-13 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-15 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-13 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-14 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-12 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-14 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-12 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-14 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-13 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-15 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-12 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-9 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-14 net.chenwen.arrangecourse.base.service.ArrangeServlet - 
+DEBUG qtp482848780-15 net.chenwen.arrangecourse.base.service.ArrangeServlet - 

@@ -15,6 +15,10 @@ def login():
         else:
             return redirect(url_for('index'))
     return render_template('login.html',error=error)
+@app.route("/health",methods = ['GET'])
+def health():
+    f=urllib.urlopen("http://127.0.0.1:8080/health")
+    return f.read()
 @app.route("/test",methods = ['GET'])
 def test():
     f=urllib.urlopen("http://127.0.0.1:8080/health")
