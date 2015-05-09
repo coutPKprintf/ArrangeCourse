@@ -23,8 +23,14 @@ public abstract class ArrangeServlet extends HttpServlet{
             String request = req.getQueryString();
             logger.debug(request);
             //do work
-            String result = doWork(request);
-
+            String result = null;
+            try {
+                result = doWork(request);
+            }catch (Exception e)
+            {
+                logger.error("server exception",e);
+            }
+            //response result
             resp.getWriter().println(result);
     }
 
@@ -35,16 +41,10 @@ public abstract class ArrangeServlet extends HttpServlet{
 
     }
 
-    protected String doWork(String request)
+    protected String doWork(String request) throws Exception
     {
         String result = null;
-        try
-        {
-            result =  doDetails(request);
-        }catch (Exception e)
-        {
-            logger.error("doDetails Exception",e);
-        }
+        result =  doDetails(request);
         return result;
     }
     protected abstract String doDetails(String request);

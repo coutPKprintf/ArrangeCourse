@@ -19,6 +19,7 @@ public class Health extends ArrangeServlet {
     @Override
     protected String doDetails(String request)
     {
-        return new String().valueOf(HttpServletResponse.SC_OK);
+        return "OK";
+        //return new String().valueOf(HttpServletResponse.SC_OK);
     }
 }
